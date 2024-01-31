@@ -344,15 +344,15 @@
    margin: 10px;
 }
 
-.form-control {
-   padding: 0.5rem 1rem;
-   width: 100%;
-   background-color: rgb(247, 247, 247);
-   border: none;
-   border-radius: 5px;
-   outline: none;
-   margin: 10px;
-}
+   .form-control {
+      padding: 0.5rem 1rem;
+      width: 100%;
+      background-color: rgb(247, 247, 247);
+      border: none;
+      border-radius: 5px;
+      outline: none;
+      margin: 10px;
+   }
 
 .form-control:focus {
    border: 1px solid #f07c51;
@@ -455,6 +455,11 @@
    
    
    }
+   .nav-header-contents {
+      display: flex;
+     flex-direction: column;
+     flex-wrap: wrap;
+   }
    .nav-menu ul li {
       margin: 2px 10px;
       font-size: 0.7rem;
@@ -530,6 +535,11 @@
       flex-direction: column;
 
     }
+    .form-control {
+      padding: 0.5rem 1rem;
+      width: 100%;
+      margin: 8px;
+   }
   .doctor-scott{
    text-align: center;
   }
