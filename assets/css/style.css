@@ -749,7 +749,7 @@ html{
    .hero-section--tittle{
       text-align: center;
       position: absolute;
-      top: 28%;
+      top: 25%;
       left: 45%;
       transform: translate(-50%,-50%);
       width: 100%;
@@ -774,7 +774,7 @@ html{
    
    }
   .hero-section--desc{
-   margin-top: 40%;
+   margin-top: 55%;
   }
 
   .hero-section--desc{
