@@ -1,4 +1,4 @@
-const navToggle=document.querySelector('.nav-toggle');
+const navToggle=document.querySelector('.nav-toggler');
   const navlinks=document.querySelectorAll('.header--menu>li>a');
   
 navToggle.addEventListener('click',changemenustate);
@@ -9,11 +9,15 @@ navToggle.addEventListener('click',changemenustate);
       const navicon=document.querySelectorAll('.nav-icon');
       /*show menu */
     headermenu.classList.toggle("show");
+    // headermenu.remove.toggle('ul.header--menu')
     navicon.forEach(icon=>{
        icon.classList.toggle("hidden");
     })
       
     }
+
+
+    
 
     function fixednavbar(){
          
