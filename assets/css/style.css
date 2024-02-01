@@ -734,7 +734,7 @@ html{
 
    .nav-menu ul li{
       color: #fff;
-      padding: 1.5rem;
+      padding: 0.7rem;
       font-weight: 600;
    }
    .nav-menu .show{
@@ -775,6 +775,10 @@ html{
    }
   .hero-section--desc{
    margin-top: 40%;
+  }
+
+  .hero-section--desc{
+   max-width: 100%;
   }
    /* .nav-menu ul{
     display: flex;
@@ -900,7 +904,7 @@ html{
 }
 
   main .hero-btn{
-     margin-left: 28%;
+     margin-left: 26%;
   }
   .footer-contents{
    display: flex;
@@ -960,7 +964,7 @@ html{
  
     .nav-menu ul li{
        color: #fff;
-       padding: 1.5rem;
+       padding: 1rem;
        font-weight: 600;
     }
     .nav-menu .show{
@@ -1001,6 +1005,7 @@ html{
     }
    .hero-section--desc{
     margin-top: 25%;
+    max-width: 100%;
    }
     /* .nav-menu ul{
      display: flex;
@@ -1126,7 +1131,7 @@ html{
  }
  
    main .hero-btn{
-      margin-left: 34%;
+      margin-left: 27%;
    }
    .footer-contents{
     display: flex;
