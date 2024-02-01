@@ -701,13 +701,14 @@ html{
    }
 
    .nav-header-contents .btn {
-      padding: 5px 15px;
+      padding: 5px 10px;
       background-color: #a3a18b;
       color: #fff;
       border-radius: 3px;
       font-weight: 700;
       border: none;
       cursor: pointer;
+      font-size: 0.7rem;
    
    }
 
@@ -899,7 +900,7 @@ html{
 }
 
   main .hero-btn{
-     margin-left: 34%;
+     margin-left: 28%;
   }
   .footer-contents{
    display: flex;
