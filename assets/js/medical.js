@@ -1,10 +1,10 @@
 const navToggle=document.querySelector('.nav-toggler');
-  const navlinks=document.querySelectorAll('.header--menu>li>a');
+  const navlinks=document.querySelectorAll('ul.menus>li>a');
   
 navToggle.addEventListener('click',changemenustate);
 
     function changemenustate(){
-      const headermenu=document.querySelector('ul.header--menu')
+      const headermenu=document.querySelector('ul.menus')
 
       const navicon=document.querySelectorAll('.nav-icon');
       /*show menu */
@@ -73,3 +73,4 @@ navToggle.addEventListener('click',changemenustate);
 
     fixednavbar()
     onmenuclick()
+  
