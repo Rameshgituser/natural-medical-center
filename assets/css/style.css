@@ -715,6 +715,7 @@ html {
 .footer-contact a {
   text-decoration: none;
   color: #626262;
+  font-size: 0.7rem;
 }
 
 .footer-news p {
@@ -1114,9 +1115,9 @@ html {
   }
 
   .work-desc--tittle h3 {
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 300;
-    margin-left: -20px;
+    margin-left: 5%;
   }
 
   .work-desc--tittle h6 {
