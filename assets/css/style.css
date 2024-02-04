@@ -1013,7 +1013,7 @@ html {
     /* justify-content: center; */
     align-items: center;
     flex-direction: column;
-    margin-top: 5rem;
+    margin-top: 1rem;
     animation: slide-right;
   }
 
