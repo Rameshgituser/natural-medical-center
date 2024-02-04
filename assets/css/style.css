@@ -1116,7 +1116,7 @@ html {
   .work-desc--tittle h3 {
     font-size: 16px;
     font-weight: 300;
-    margin-left: -55px;
+    margin-left: -20px;
   }
 
   .work-desc--tittle h6 {
@@ -1136,9 +1136,9 @@ html {
   }
 
   .course-info h5 {
-    font-size: 7px;
+    font-size: 6px;
     font-weight: 600;
-    margin-right: 70%;
+    margin-right: 68%;
   }
 }
 
